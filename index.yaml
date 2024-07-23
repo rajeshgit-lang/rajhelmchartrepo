@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-07-23T16:21:01.324989802Z"
+entries:
+  rajesh-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-07-23T16:37:24.827834837Z"
+    description: A Helm chart for Kubernetes
+    digest: 06a627524969dfa07ca80ee92651e1976d12a26453167b6b715a4e8be5f23566
+    name: rajesh-chart
+    type: application
+    urls:
+    - https://rajeshgit-lang.github.io/rajhelmchartrepo/rajesh-chart-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-07-23T16:37:24.827341746Z"
